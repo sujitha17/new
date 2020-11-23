@@ -35,7 +35,6 @@
 
 
 #cssass.txt
-{
 * {
 			box-sizing : border-box;
 			margin: 0;
@@ -211,4 +210,4 @@
 		width: 100%;
 	}
 }
-}
+
